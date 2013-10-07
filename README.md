@@ -1,29 +1,19 @@
-# ScssShorthand
+# SCSS Shorthand
 
-TODO: Write a gem description
+A dead simple gem to provide support for shorthands in .scss files in Rails.
+
+Use `++` instead of `@include`, `>>` instead of `@extend`.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'scss_shorthand'
+    gem 'scss_shorthand', github: "mustangostang/scss_shorthand"
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install scss_shorthand
-
 ## Usage
 
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+Just install and enjoy the short .scss syntax!
