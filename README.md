@@ -2,6 +2,8 @@
 
 A dead simple gem to provide support for shorthands in .scss files in Rails.
 
+*Works for Rails 3.x only.*
+
 Use `++` instead of `@include`, `>>` instead of `@extend`.
 
 ## Installation
