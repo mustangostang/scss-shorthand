@@ -10,7 +10,7 @@ Use `++` instead of `@include`, `>>` instead of `@extend`.
 
 Add this line to your application's Gemfile:
 
-    gem 'scss_shorthand', github: "mustangostang/scss_shorthand"
+    gem 'scss_shorthand', github: "mustangostang/scss-shorthand"
 
 And then execute:
 
